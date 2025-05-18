@@ -1,0 +1,59 @@
+{
+  "2407.01892v2": {
+    "title": "GRASP: A Grid-Based Benchmark for Evaluating Commonsense Spatial Reasoning",
+    "authors": [
+      "Zhisheng Tang",
+      "Mayank Kejriwal"
+    ],
+    "summary": "Spatial reasoning, an important faculty of human cognition with many\npractical applications, is one of the core commonsense skills that is not\npurely language-based and, for satisfying (as opposed to optimal) solutions,\nrequires some minimum degree of planning. Existing benchmarks of Commonsense\nSpatial Reasoning (CSR) tend to evaluate how Large Language Models (LLMs)\ninterpret text-based spatial $\\textit{descriptions}$ rather than directly\nevaluate a plan produced by the LLM in response to a $\\textit{specific}$\nspatial reasoning problem. In this paper, we construct a large-scale benchmark\ncalled GRASP, which consists of 16,000 grid-based environments where the agent\nis tasked with an energy collection problem. These environments include 100\ngrid instances instantiated using each of the 160 different grid settings,\ninvolving five different energy distributions, two modes of agent starting\nposition, and two distinct obstacle configurations, as well as three kinds of\nagent constraints. Using GRASP, we compare classic baseline approaches, such as\nrandom walk and greedy search methods, with advanced LLMs like GPT-3.5-Turbo,\nGPT-4o, and GPT-o1-mini. The experimental results indicate that even these\nadvanced LLMs struggle to consistently achieve satisfactory solutions.",
+    "pdf_url": "http://arxiv.org/pdf/2407.01892v2",
+    "published": "2024-07-02"
+  },
+  "2411.04273v1": {
+    "title": "Understanding Generative AI in Robot Logic Parametrization",
+    "authors": [
+      "Yuna Hwang",
+      "Arissa J. Sato",
+      "Pragathi Praveena",
+      "Nathan Thomas White",
+      "Bilge Mutlu"
+    ],
+    "summary": "Leveraging generative AI (for example, Large Language Models) for language\nunderstanding within robotics opens up possibilities for LLM-driven robot\nend-user development (EUD). Despite the numerous design opportunities it\nprovides, little is understood about how this technology can be utilized when\nconstructing robot program logic. In this paper, we outline the background in\ncapturing natural language end-user intent and summarize previous use cases of\nLLMs within EUD. Taking the context of filmmaking as an example, we explore how\na cinematography practitioner's intent to film a certain scene can be\narticulated using natural language, captured by an LLM, and further\nparametrized as low-level robot arm movement. We explore the capabilities of an\nLLM interpreting end-user intent and mapping natural language to predefined,\ncross-modal data in the process of iterative program development. We conclude\nby suggesting future opportunities for domain exploration beyond cinematography\nto support language-driven robotic camera navigation.",
+    "pdf_url": "http://arxiv.org/pdf/2411.04273v1",
+    "published": "2024-11-06"
+  },
+  "2409.00119v2": {
+    "title": "3-in-1: 2D Rotary Adaptation for Efficient Finetuning, Efficient Batching and Composability",
+    "authors": [
+      "Baohao Liao",
+      "Christof Monz"
+    ],
+    "summary": "Parameter-efficient finetuning (PEFT) methods effectively adapt large\nlanguage models (LLMs) to diverse downstream tasks, reducing storage and GPU\nmemory demands. Despite these advantages, several applications pose new\nchallenges to PEFT beyond mere parameter efficiency. One notable challenge\ninvolves the efficient deployment of LLMs equipped with multiple task- or\nuser-specific adapters, particularly when different adapters are needed for\ndistinct requests within the same batch. Another challenge is the\ninterpretability of LLMs, which is crucial for understanding how LLMs function.\nPrevious studies introduced various approaches to address different challenges.\nIn this paper, we introduce a novel method, RoAd, which employs a\nstraightforward 2D rotation to adapt LLMs and addresses all the above\nchallenges: (1) RoAd is remarkably parameter-efficient, delivering optimal\nperformance on GLUE, eight commonsense reasoning tasks and four arithmetic\nreasoning tasks with $<0.1\\%$ trainable parameters; (2) RoAd facilitates the\nefficient serving of requests requiring different adapters within a batch, with\nan overhead comparable to element-wise multiplication instead of batch matrix\nmultiplication; (3) RoAd enhances LLM's interpretability through integration\nwithin a framework of distributed interchange intervention, demonstrated via\ncomposition experiments.",
+    "pdf_url": "http://arxiv.org/pdf/2409.00119v2",
+    "published": "2024-08-28"
+  },
+  "2110.04767v1": {
+    "title": "Developing Smart Web-Search Using RegEx",
+    "authors": [
+      "Ikechukwu Onyenwe",
+      "Stanley Ogbonna",
+      "Ebele Onyedimma",
+      "Onyedikachukwu Ikechukwu-Onyenwe",
+      "Chidinma Nwafor"
+    ],
+    "summary": "Due to the increasing storage data on Web Applications, it becomes very\ndifficult to use only keyword-based searches to provide comprehensive search\nresults, thus increasing the difficulty for web users to search information on\nthe web. In this paper, we proposed using a combined method of keyword-based\nand Regular expressions (regEx) searches to perform a search using strings of\ntargeted items for optimal results even as the volume of data around the world\non the Internet continues to explode. The idea is to embed regEx patterns as\npart of the search engine's algorithm in a web application project to provide\nstrings related to the targeted items for more comprehensive coverage of search\nresults. The user's search query is a string of characters guided by search\nboundaries selected from the entry point. The results returned from the search\noperation are different results within a category determined by the search\nboundaries. This is designed to be beneficial to a user who has an obscure idea\nabout the information he/she wanted to search but knows the boundaries within\nwhich to get the information. This technique can be applied to data processing\ntasks such as information extraction and search refinement.",
+    "pdf_url": "http://arxiv.org/pdf/2110.04767v1",
+    "published": "2021-10-10"
+  },
+  "2404.15616v1": {
+    "title": "A Bi-directional Quantum Search Algorithm",
+    "authors": [
+      "Debanjan Konar",
+      "Zain Hafeez",
+      "Vaneet Aggarwal"
+    ],
+    "summary": "Grover's search algorithms, including various partial Grover searches,\nexperience scaling problems as the number of iterations rises with increased\nqubits, making implementation more computationally expensive. This paper\ncombines Partial Grover's search algorithm and Bi-directional Search to create\na fast Grover's quantum search algorithm, referred to as Bi-Directional Grover\nSearch (BDGS). We incorporated a bi-directional search tactic with a partial\nGrover search, starting from an initial state and a single marked state in\nparallel. We have shown in this article that our novel approach requires\n$\\frac{\\pi}{4\\sqrt{2}}\\sqrt{N}(1-\\sqrt{\\frac{1}{b^{r/2k}}})$ iterations over\nregular Grover Search and Partial Grover Search (PGS), which takes\n$\\frac{\\pi}{4}\\sqrt{N}\\sqrt{1-\\frac{1}{b}}$ (here, $N=2^r$ elements, $b$ is the\nbranching factor of partial search, and $k= \\lceil\\log_2b \\rceil$). The\nproposed BDGS algorithm is benchmarked against the state-of-the-art Depth-First\nGrover's Search (DFGS) and generic Grover's Search (GS) implementations for $2$\nto $20$ qubits and provides promising results. The Qiskit Python implementation\nof the proposed BDGS algorithm is available on Github\n(https://github.com/hafeezzwiz21/DFGS-BDGS).",
+    "pdf_url": "http://arxiv.org/pdf/2404.15616v1",
+    "published": "2024-04-24"
+  }
+}

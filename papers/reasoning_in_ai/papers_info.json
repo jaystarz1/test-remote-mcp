@@ -1,0 +1,93 @@
+{
+  "2504.16770v1": {
+    "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+    "authors": [
+      "Chaeyeon Lim"
+    ],
+    "summary": "While generative artificial intelligence (Gen AI) increasingly transforms\nacademic environments, a critical gap exists in understanding and mitigating\nhuman biases in AI interactions, such as anchoring and confirmation bias. This\nposition paper advocates for metacognitive AI literacy interventions to help\nuniversity students critically engage with AI and address biases across the\nHuman-AI interaction workflows. The paper presents the importance of\nconsidering (1) metacognitive support with deliberate friction focusing on\nhuman bias; (2) bi-directional Human-AI interaction intervention addressing\nboth input formulation and output interpretation; and (3) adaptive scaffolding\nthat responds to diverse user engagement patterns. These frameworks are\nillustrated through ongoing work on \"DeBiasMe,\" AIED (AI in Education)\ninterventions designed to enhance awareness of cognitive biases while\nempowering user agency in AI interactions. The paper invites multiple\nstakeholders to engage in discussions on design and evaluation methods for\nscaffolding mechanisms, bias visualization, and analysis frameworks. This\nposition contributes to the emerging field of AI-augmented learning by\nemphasizing the critical role of metacognition in helping students navigate the\ncomplex interaction between human, statistical, and systemic biases in AI use\nwhile highlighting how cognitive adaptation to AI systems must be explicitly\nintegrated into comprehensive AI literacy frameworks.",
+    "pdf_url": "http://arxiv.org/pdf/2504.16770v1",
+    "published": "2025-04-23"
+  },
+  "2008.07328v1": {
+    "title": "An Ontological AI-and-Law Framework for the Autonomous Levels of AI Legal Reasoning",
+    "authors": [
+      "Lance Eliot"
+    ],
+    "summary": "A framework is proposed that seeks to identify and establish a set of robust\nautonomous levels articulating the realm of Artificial Intelligence and Legal\nReasoning (AILR). Doing so provides a sound and parsimonious basis for being\nable to assess progress in the application of AI to the law, and can be\nutilized by scholars in academic pursuits of AI legal reasoning, along with\nbeing used by law practitioners and legal professionals in gauging how advances\nin AI are aiding the practice of law and the realization of aspirational versus\nachieved results. A set of seven levels of autonomy for AI and Legal Reasoning\nare meticulously proffered and mindfully discussed.",
+    "pdf_url": "http://arxiv.org/pdf/2008.07328v1",
+    "published": "2020-08-04"
+  },
+  "2305.15922v1": {
+    "title": "Towards a Capability Assessment Model for the Comprehension and Adoption of AI in Organisations",
+    "authors": [
+      "Butler",
+      "Tom",
+      "Espinoza-Lim\u00f3n",
+      "Angelina",
+      "Sepp\u00e4l\u00e4",
+      "Selja"
+    ],
+    "summary": "The comprehension and adoption of Artificial Intelligence (AI) are beset with\npractical and ethical problems. This article presents a 5-level AI Capability\nAssessment Model (AI-CAM) and a related AI Capabilities Matrix (AI-CM) to\nassist practitioners in AI comprehension and adoption. These practical tools\nwere developed with business executives, technologists, and other\norganisational stakeholders in mind. They are founded on a comprehensive\nconception of AI compared to those in other AI adoption models and are also\nopen-source artefacts. Thus, the AI-CAM and AI-CM present an accessible\nresource to help inform organisational decision-makers on the capability\nrequirements for (1) AI-based data analytics use cases based on machine\nlearning technologies; (2) Knowledge representation to engineer and represent\ndata, information and knowledge using semantic technologies; and (3) AI-based\nsolutions that seek to emulate human reasoning and decision-making. The AI-CAM\ncovers the core capability dimensions (business, data, technology,\norganisation, AI skills, risks, and ethical considerations) required at the\nfive capability maturity levels to achieve optimal use of AI in organisations.",
+    "pdf_url": "http://arxiv.org/pdf/2305.15922v1",
+    "published": "2023-05-25"
+  },
+  "2504.14996v1": {
+    "title": "Distributed Cognition for AI-supported Remote Operations: Challenges and Research Directions",
+    "authors": [
+      "Rune M\u00f8berg Jacobsen",
+      "Joel Wester",
+      "Helena B\u00f8jer Djern\u00e6s",
+      "Niels van Berkel"
+    ],
+    "summary": "This paper investigates the impact of artificial intelligence integration on\nremote operations, emphasising its influence on both distributed and team\ncognition. As remote operations increasingly rely on digital interfaces,\nsensors, and networked communication, AI-driven systems transform\ndecision-making processes across domains such as air traffic control,\nindustrial automation, and intelligent ports. However, the integration of AI\nintroduces significant challenges, including the reconfiguration of human-AI\nteam cognition, the need for adaptive AI memory that aligns with human\ndistributed cognition, and the design of AI fallback operators to maintain\ncontinuity during communication disruptions. Drawing on theories of distributed\nand team cognition, we analyse how cognitive overload, loss of situational\nawareness, and impaired team coordination may arise in AI-supported\nenvironments. Based on real-world intelligent port scenarios, we propose\nresearch directions that aim to safeguard human reasoning and enhance\ncollaborative decision-making in AI-augmented remote operations.",
+    "pdf_url": "http://arxiv.org/pdf/2504.14996v1",
+    "published": "2025-04-21"
+  },
+  "2504.16021v1": {
+    "title": "Navigating the State of Cognitive Flow: Context-Aware AI Interventions for Effective Reasoning Support",
+    "authors": [
+      "Dinithi Dissanayake",
+      "Suranga Nanayakkara"
+    ],
+    "summary": "Flow theory describes an optimal cognitive state where individuals experience\ndeep focus and intrinsic motivation when a task's difficulty aligns with their\nskill level. In AI-augmented reasoning, interventions that disrupt the state of\ncognitive flow can hinder rather than enhance decision-making. This paper\nproposes a context-aware cognitive augmentation framework that adapts\ninterventions based on three key contextual factors: type, timing, and scale.\nBy leveraging multimodal behavioral cues (e.g., gaze behavior, typing\nhesitation, interaction speed), AI can dynamically adjust cognitive support to\nmaintain or restore flow. We introduce the concept of cognitive flow, an\nextension of flow theory in AI-augmented reasoning, where interventions are\npersonalized, adaptive, and minimally intrusive. By shifting from static\ninterventions to context-aware augmentation, our approach ensures that AI\nsystems support deep engagement in complex decision-making and reasoning\nwithout disrupting cognitive immersion.",
+    "pdf_url": "http://arxiv.org/pdf/2504.16021v1",
+    "published": "2025-04-22"
+  },
+  "2505.07005v1": {
+    "title": "Explainable AI the Latest Advancements and New Trends",
+    "authors": [
+      "Bowen Long",
+      "Enjie Liu",
+      "Renxi Qiu",
+      "Yanqing Duan"
+    ],
+    "summary": "In recent years, Artificial Intelligence technology has excelled in various\napplications across all domains and fields. However, the various algorithms in\nneural networks make it difficult to understand the reasons behind decisions.\nFor this reason, trustworthy AI techniques have started gaining popularity. The\nconcept of trustworthiness is cross-disciplinary; it must meet societal\nstandards and principles, and technology is used to fulfill these requirements.\nIn this paper, we first surveyed developments from various countries and\nregions on the ethical elements that make AI algorithms trustworthy; and then\nfocused our survey on the state of the art research into the interpretability\nof AI. We have conducted an intensive survey on technologies and techniques\nused in making AI explainable. Finally, we identified new trends in achieving\nexplainable AI. In particular, we elaborate on the strong link between the\nexplainability of AI and the meta-reasoning of autonomous systems. The concept\nof meta-reasoning is 'reason the reasoning', which coincides with the intention\nand goal of explainable Al. The integration of the approaches could pave the\nway for future interpretable AI systems.",
+    "pdf_url": "http://arxiv.org/pdf/2505.07005v1",
+    "published": "2025-05-11"
+  },
+  "2307.11643v3": {
+    "title": "Morphological Image Analysis and Feature Extraction for Reasoning with AI-based Defect Detection and Classification Models",
+    "authors": [
+      "Jiajun Zhang",
+      "Georgina Cosma",
+      "Sarah Bugby",
+      "Axel Finke",
+      "Jason Watkins"
+    ],
+    "summary": "As the use of artificial intelligent (AI) models becomes more prevalent in\nindustries such as engineering and manufacturing, it is essential that these\nmodels provide transparent reasoning behind their predictions. This paper\nproposes the AI-Reasoner, which extracts the morphological characteristics of\ndefects (DefChars) from images and utilises decision trees to reason with the\nDefChar values. Thereafter, the AI-Reasoner exports visualisations (i.e.\ncharts) and textual explanations to provide insights into outputs made by\nmasked-based defect detection and classification models. It also provides\neffective mitigation strategies to enhance data pre-processing and overall\nmodel performance. The AI-Reasoner was tested on explaining the outputs of an\nIE Mask R-CNN model using a set of 366 images containing defects. The results\ndemonstrated its effectiveness in explaining the IE Mask R-CNN model's\npredictions. Overall, the proposed AI-Reasoner provides a solution for\nimproving the performance of AI models in industrial applications that require\ndefect analysis.",
+    "pdf_url": "http://arxiv.org/pdf/2307.11643v3",
+    "published": "2023-07-21"
+  },
+  "2307.13815v2": {
+    "title": "ForestMonkey: Toolkit for Reasoning with AI-based Defect Detection and Classification Models",
+    "authors": [
+      "Jiajun Zhang",
+      "Georgina Cosma",
+      "Sarah Bugby",
+      "Jason Watkins"
+    ],
+    "summary": "Artificial intelligence (AI) reasoning and explainable AI (XAI) tasks have\ngained popularity recently, enabling users to explain the predictions or\ndecision processes of AI models. This paper introduces Forest Monkey (FM), a\ntoolkit designed to reason the outputs of any AI-based defect detection and/or\nclassification model with data explainability. Implemented as a Python package,\nFM takes input in the form of dataset folder paths (including original images,\nground truth labels, and predicted labels) and provides a set of charts and a\ntext file to illustrate the reasoning results and suggest possible\nimprovements. The FM toolkit consists of processes such as feature extraction\nfrom predictions to reasoning targets, feature extraction from images to defect\ncharacteristics, and a decision tree-based AI-Reasoner. Additionally, this\npaper investigates the time performance of the FM toolkit when applied to four\nAI models with different datasets. Lastly, a tutorial is provided to guide\nusers in performing reasoning tasks using the FM toolkit.",
+    "pdf_url": "http://arxiv.org/pdf/2307.13815v2",
+    "published": "2023-07-25"
+  }
+}
