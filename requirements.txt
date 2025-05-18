@@ -2,3 +2,4 @@ fastmcp
 arxiv
 uvicorn
 
+fastapi
